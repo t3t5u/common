@@ -1,0 +1,21 @@
+[submodule "util"]
+	path = util
+	url = git@github.com:t3t5u/common-util.git
+[submodule "http"]
+	path = http
+	url = git@github.com:t3t5u/common-http.git
+[submodule "expression"]
+	path = expression
+	url = git@github.com:t3t5u/common-expression.git
+[submodule "database"]
+	path = database
+	url = git@github.com:t3t5u/common-database.git
+[submodule "ormlite"]
+	path = ormlite
+	url = git@github.com:t3t5u/common-ormlite.git
+[submodule "android"]
+	path = android
+	url = git@github.com:t3t5u/common-android.git
+[submodule "domain"]
+	path = domain
+	url = git@github.com:t3t5u/common-domain.git
